@@ -1,6 +1,5 @@
-# MAINTAINER WANTED
-
-I don't have time (nor interest) in maintaining this project for much longer. If you're interested in taking it over, please contact me.
+# Swift 5.5 Support
+Updated to support ArgumentsParser v0.4.3, builds using Xcode 13 beta 2 using Swift 5.5
 
 ---
 
